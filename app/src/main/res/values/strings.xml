@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">World countries</string>
+    <string name="img_flag_content_desc">This imageview displays each country\'s flag</string>
+</resources>
